@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Bajo la lluvia, tus labios me llaman
+> El ritmo mojado que nunca se apaga
+> Perdidos en calle, la noche nos ama
+> Bajo la lluvia, tu cuerpo me agarra
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
